@@ -12,6 +12,9 @@ This is a single-page CV built using semantic HTML and basic CSS.
 ## Live Demo
 https://anushkajamkar.github.io/CV-HTML/
 
+## Repository
+https://github.com/AnushkaJamkar/CV-HTML
+
 ## Technologies Used
 - HTML5
 - CSS3
