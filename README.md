@@ -9,7 +9,7 @@ This is a single-page CV built using semantic HTML and basic CSS.
 - Responsive layout (basic)
 - Deployed using GitHub Pages
 
-## Live Demo
+## Project URL
 https://anushkajamkar.github.io/CV-HTML/
 
 ## Repository
